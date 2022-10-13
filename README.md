@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bogdan @macgood Churyumov
 - 👀 I’m interested in KOTLIN/JAVA JOBANNIY V ROT ETOGO CASINO BLYAT.
-- 🌱 I’m currently learning JAVA HAHUI,(andreyd)
+- 🌱 I’m currently learning KOTLIN HAHUI,(andreyd)
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me vk.com/macgoodmonsta
 
