@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Bogdan @macgood Churyumov
-- 👀 I’m interested in KOTLIN/JAVA JOBANNIY V ROT ETOGO CASINO BLYAT.
-- 🌱 I’m currently learning KOTLIN HAHUI,(andreyd)
-- 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me vk.com/macgoodmonsta
+Bogdan @macgood Churyumov
 
-<!---
-mrmacgood71/mrmacgood71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Kotlin/Java Android developer (study) and partly Spring Boot 2,3 
+
+
+- Bachelor of SPb SUAI (1 course)
+1x - WSR Regional Contest (Software solutions for business, 2022)
+1x - VK IT-Diving (Android, 2023)
+- ICPC (participant, Milky Way, 2022) 
+- I'm a professional (participant, 2022)
+Part of OPUS
+
+Contact:
+vk.com/macgoodmonsta
+t.me/macgoodmonsta
+bo2002277@gmail.com
