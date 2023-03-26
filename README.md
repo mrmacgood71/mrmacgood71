@@ -9,8 +9,8 @@ I'm Kotlin/Java Android developer (study) and partly Spring Boot 2,3
 - ICPC (participant, Milky Way, 2022) 
 - I'm a professional (participant, 2022)
 Part of OPUS
-
+- 
 Contact:
-vk.com/macgoodmonsta
-t.me/macgoodmonsta
-bo2002277@gmail.com
+- vk.com/macgoodmonsta
+- t.me/macgoodmonsta
+- bo2002277@gmail.com
