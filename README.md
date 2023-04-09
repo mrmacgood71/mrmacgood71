@@ -1,6 +1,6 @@
 Bogdan @macgood Churyumov
 
-I'm Kotlin/Java Android developer (study) and partly Spring Boot 2, 3 
+I'm Kotlin/Java Android developer and partly Spring Boot 2, 3 
 
 
 - Bachelor of SPb SUAI (1 course)
