@@ -1,8 +1,8 @@
 Bogdan @macgood Churyumov
 
-I'm Kotlin/Java Android developer and partly Spring Boot 2, 3 
+I'm System Analyst/Solution Architect with experience in Anroid and Backend development on Java and Kotlin
 
-- Bachelor of SPb SUAI (2 course)
+- Bachelor of SPb SUAI (3 course)
 - 1x - [WSR] Regional Contest (Software solutions for business, 2022)
 - Yandex Cup 2023 finalist (Mobile: Android)
 - 3th place SUAI "Хакатон 'Время IT'"
