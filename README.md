@@ -10,6 +10,7 @@ Results:
 - Yandex Cup 2023 finalist (Mobile: Android)
 - 1x - [VK] IT-Diving (Android, 2023)
 - 3th place SUAI "Хакатон 'Время IT'"
+- MTS Summer Fest: True Tech Arch, Architecture Kata (finalist, 2025)
 - ICPC (participant, Milky Way, 2022) 
 
 
