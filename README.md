@@ -1,6 +1,6 @@
 Bogdan @macgood Churyumov
 
-I'm Solution Architect/System Analyst with experience in Backend and Android development on Java and Kotlin about 4+ years
+I'm Solution Architect/System Analyst with experience in Backend and Android development on Java and Kotlin (partly Go) about 4+ years. 
 
 Results:
 - Bachelor of SUAI
